@@ -1,0 +1,12 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "lv_demos.h": "c",
+        "lv_demo_music.h": "c",
+        "fbdev.h": "c",
+        "evdev.h": "c",
+        "lvgl.h": "c",
+        "ui_helpers.h": "c",
+        "ui.h": "c"
+    }
+}
